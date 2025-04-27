@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.22
+Name: contactsnap
+Formal-Name: ContactSnap
+App-ID: com.tjards.contactsnap.contactsnap
+Version: 0.0.1
+Home-page: https://contactsnap.tjards.com/contactsnap
+Download-URL: https://contactsnap.tjards.com/contactsnap
+Author: tjards
+Author-email: travis.jardine@gmail.com
+Summary: takes picture, finds phone numbers, adds them to your contact list

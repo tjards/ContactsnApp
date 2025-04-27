@@ -1,0 +1,20 @@
+# mine
+application/legacy_code
+application/src/contactsnap/backend/inference/models
+application/build
+modeling/digit_classifier_CNN
+modeling/digit_detector_yolo/weights
+modeling/handwriting_cleaned_subset_002/weights/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OSX useful to ignore
+*.DS_Store
+
+
+# Briefcase log files
+logs/
