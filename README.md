@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./reports/CsnApp.jpeg" width="30%"/>
+</p>
+
 # ContactsnApp: find phone numbers in images
 
 Building off my earlier exploration of [custom ChatGPTs](https://tjards.github.io/posts/2024/custom_gpt/), I tried building an AI app from scratch based most off vibe coding supported by [GitHub Copilot in VSCode](https://code.visualstudio.com/docs/copilot/overview). Inspired by a recent AirBnB experience, I developed ContactsnApp: a user-friendly application designed to streamline the extraction and annotation of phone numbers from images using AI models. 
