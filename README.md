@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="./reports/CsnApp.jpeg" width="30%"/>
-</p>
-
-Full description available [here](https://tjards.github.io/posts/2025/contactsnapp/).
+<div style="text-align: center;">
+  <img src="./reports/CsnApp.jpeg" width="30%" style="margin-bottom: 1em;" />
+  <p>
+    Full description available <a href="https://tjards.github.io/posts/2025/contactsnapp/">here</a>.
+  </p>
+</div>
 
 <!---
 # ContactsnApp: find phone numbers in images
